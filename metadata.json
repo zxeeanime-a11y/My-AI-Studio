@@ -1,0 +1,6 @@
+{
+  "name": "AlphaRecap Studio",
+  "description": "မြန်မာဘာသာဖြင့် Movie Recap၊ မြန်မာအသံသွင်း Dubbing နှင့် Dynamic Captions ဗီဒီယိုများ ဖန်တီးနိုင်သော Studio",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
